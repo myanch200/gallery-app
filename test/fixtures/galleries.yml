@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Trip to Lisbon
+  description: Photos from our last trip to Lisbon
+
+two:
+  name: 25th Birthday
+  description: Photos from my 25th birthday party
